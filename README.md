@@ -35,12 +35,15 @@ Our mission is to unlock youth potential, bridge the STEM education gap in Ethio
 
 ---
 
-## 🏗️ Tech Stack
+## 🏗️ Tech Stack & UI Approach
 
-- **HTML5** & **CSS3** for content and responsive visuals
-- **JavaScript** (`script.js`) for interactivity
-- **Font Awesome** & **Google Fonts** for modern, friendly UI
-- Easily deployable as a static website (e.g., GitHub Pages)
+- **HTML5** & **CSS3:** Semantic markup and advanced, responsive layouts
+- **JavaScript (`script.js`):** Enables dynamic content and interactive features throughout the site
+- **Modern UI/UX:**  
+  - Custom CSS transitions and animations for smooth, engaging user experience
+  - Interactive menus and components optimized for youth engagement
+- **Font Awesome** & **Google Fonts:** For a visually appealing and accessible design
+- **Fully Static:** Deployable to any static hosting service (e.g., GitHub Pages), no backend required
 
 ---
 
@@ -51,7 +54,7 @@ Our mission is to unlock youth potential, bridge the STEM education gap in Ethio
 2. **Volunteers:**  
    - Fill out the volunteer application on [Get Involved](./get-involved.html); all are welcome.
 3. **Partners:**  
-   - [Contact us](./contact.html) to sponsor, collaborate, or provide equipment.
+   - Collaborate or sponsor through details on [Get Involved](./get-involved.html).
 4. **Access Free Resources:**  
    - See [blog.html](./blog.html) for downloadable STEM activity kits and tutorials.
 
@@ -63,14 +66,6 @@ Our mission is to unlock youth potential, bridge the STEM education gap in Ethio
 - 50+ school partnerships
 - 25 national STEM awards
 - Programs in Addis Ababa, Bahir Dar, and rural Ethiopia
-
----
-
-## 🤝 Contact & Socials
-
-- **Main Office:** Addis Ababa, Ethiopia
-- **Email:** info@ethiostemers.org  
-- Follow us: [Facebook](#) | [Twitter](#) | [Instagram](#) | [LinkedIn](#)
 
 ---
 
